@@ -1,6 +1,7 @@
-### GraduationPro (v1.0)
-**Date**: From 2022-10 to 2023-04
-**Author**: Qinixia
+### GlobalTE-Methyl  
+**Date**: From 2022-10 to 2023-06  
+**Author**: Qinixia  
+**Current Status**: Manuscript in progress  
 
 ---
 
