@@ -1,6 +1,6 @@
 ### GlobalTE-Methyl  
 **Date**: From 2022-10 to 2023-06  
-**Author**: Qinixia  
+**Author**: QiniXia  
 **Current Status**: Manuscript in progress  
 
 ---
