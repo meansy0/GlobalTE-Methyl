@@ -27,7 +27,7 @@ This project focuses on the global dataset of **Arabidopsis thaliana** from the 
 - **Description**: This folder is used for processing **FastQ** files of Arabidopsis ecotypes.    After inputting the path and name of the ecotype, predicted results are output as text files.    Results are automatically summarized by superfamily, including details on transposon activity, insertion sites, and the number of transposes for each superfamily.
 
 #### 2.    **temp2**
-- **Environment**: Python 2.7
+- **Environment**: Python > 3.0; samtools>1.9; bedtools, bwa
 - **Tools**: Custom Python scripts for detecting non-reference transposons.
 - **Description**: This folder contains scripts for identifying **non-reference TEs**, focusing on the detection of active transposable elements that are not present in the reference genome.
 - guidelines: https://github.com/weng-lab/TEMP2
