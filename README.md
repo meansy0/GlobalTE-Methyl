@@ -1,6 +1,6 @@
 ### GlobalTE-Methyl  
 **Date**: From 2022-10 to 2023-06  
-**Author**: QiniXia  
+**Author**: Qini Xia  
 **Current Status**: Manuscript in progress  
 
 ---
@@ -30,6 +30,7 @@ This project focuses on the global dataset of **Arabidopsis thaliana** from the 
 - **Environment**: Python 2.7
 - **Tools**: Custom Python scripts for detecting non-reference transposons.
 - **Description**: This folder contains scripts for identifying **non-reference TEs**, focusing on the detection of active transposable elements that are not present in the reference genome.
+- guidelines: https://github.com/weng-lab/TEMP2
 
 #### 3.    **genomesize**
 - **Environment**: R 4.0.5
